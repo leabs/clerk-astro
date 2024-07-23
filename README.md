@@ -1,6 +1,6 @@
-# Astro Clerk
+# Clerk Astro
 
-This is a simple project to demonstrate the use of the [Astro](https://astro.build/) and user accounts with [clerk](https://clerk.com/).
+This is a simple project to demonstrate the use of user accounts with [clerk](https://clerk.com/) and a simple [Astro](https://astro.build/) site.
 
 ## Getting Started
 
